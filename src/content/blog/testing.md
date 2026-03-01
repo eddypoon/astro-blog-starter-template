@@ -1,5 +1,5 @@
 ---
-title: "Testing"
+title: "Thoughts on Life, and Learning"
 description: "Import from test"
 pubDate: "Mar 1 2026"
 heroImage: "/unnamed.jpg"
@@ -7,9 +7,7 @@ heroImage: "/unnamed.jpg"
 
 
 
-## Thoughts on Life, and Learning
-
-(I copied this from my post 10+ years ago - some of it is still relevant. On the news front - begin to look on  various substacks; I hestitate to continue to recommend WSJ, and Gates notes.) 
+(I copied this post from my blog 10+ years ago - some of it is still relevant. On the news front - begin to look on  various substacks; I hestitate to continue to recommend WSJ, and Gates notes.) 
 
 Remember learning is life long, be that in reading, observing or talking to people. [The Wall Street Journal](https://www.wsj.com) brings you up to date on important developments. I also recommend sources such as annual letters from good CEOs, [PIMCO monthlies](https://www.pimco.com), and [TED](https://www.ted.com). I would ask myself the whys, the whats, and the consequences. We never know until we exercise our brains, until we ask ourselves the important questions.
 
