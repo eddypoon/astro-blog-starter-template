@@ -1,3 +1,11 @@
+---
+title: "Testing"
+description: "Import from test"
+pubDate: "Mar 1 2026"
+heroImage: "/blog-placeholder-2.jpg"
+---
+
+
 # Eddy Poon - Thoughts on Life and Learning
 
 ## Thoughts on Life, and Learning
