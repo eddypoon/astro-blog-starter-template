@@ -17,6 +17,6 @@ Relentlessly strive to foster the culture - focus on integrity, strong execution
 
 Incentive matters. If there is only one thing I could highlight, is that incentive matters. There are a lot of dimensions in incentives - time, convenience, social, monetary, respect, achievement, ethics, happiness; but the one thing in common is that incentive drives people. Incentive matters in personal, business and professional worlds, in philanthropy and political economy. In making decisions and proposing solutions, think about how everyone else would react to incentives. Encourage the thoughts on how we can provide, not what we demand from others.
 
-I leave you with [an inspiring video] (https://www.youtube.com/watch?v=UF8uR6Z6KLc) in which a college dropout shared his story on connecting the dots and love. Good luck.
+I leave you with [an inspiring video](https://www.youtube.com/watch?v=UF8uR6Z6KLc) in which a college dropout shared his story on connecting the dots and love. Good luck.
 
 **Contact**: eddypoon at googlemail.com
