@@ -1,6 +1,6 @@
 ---
 title: "Thoughts on Life, and Learning"
-description: "Import from test"
+description: "Thoughts on Life, and Learning"
 pubDate: "Mar 1 2026"
 heroImage: "/unnamed.jpg"
 ---
