@@ -19,4 +19,4 @@ Incentive matters. If there is only one thing I could highlight, is that incenti
 
 I leave you with [an inspiring video](https://www.youtube.com/watch?v=UF8uR6Z6KLc) in which a college dropout shared his story on connecting the dots and love. Good luck.
 
-**Contact**: eddypoon at googlemail.com
+
