@@ -12,6 +12,9 @@ heroImage: "/photobanner.png"
 It was not creative for human kind, but I definitely sourced human kind's creativity. ) 
 
 https://menr8484jdntt.blogspot.com/
+https://www.tumblr.com/eddypoon
+
+
 
  
 
